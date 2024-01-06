@@ -1,5 +1,7 @@
 ### Hi there 👋, Myself Hemant Pathak. Currently an IITian pusrsuing my goal.
 
+![](https://komarev.com/ghpvc/?username=hemant030406)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=hemant030406)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **hemant030406/hemant030406** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
