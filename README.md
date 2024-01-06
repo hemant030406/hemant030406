@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, Myself Hemant Pathak. Currently an IITian pusrsuing my goal.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=hemant030406)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
