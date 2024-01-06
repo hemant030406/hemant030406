@@ -1,4 +1,4 @@
-### Hi there 👋, Myself Hemant Pathak. Currently an IITian pusrsuing my goal.
+### Hi there 👋, Myself Hemant Pathak. Currently in IIT pusrsuing my goal.
 
 ![](https://komarev.com/ghpvc/?username=hemant030406)
 
