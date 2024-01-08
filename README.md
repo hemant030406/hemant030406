@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=hemant030406)
 
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C511%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/?username=hemant030406)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=hemant030406&theme=onedark&rank=S,A,B)](https://github.com/ryo-ma/github-profile-trophy)
 
