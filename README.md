@@ -1,6 +1,6 @@
 ### Hi there 👋, Myself Hemant Pathak. Currently in IIT pusrsuing my goal.
 
-![](https://komarev.com/ghpvc/?username=hemant030406)
+![](https://komarev.com/ghpvc/?username=hemant030406&color=blueviolet)
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=hemant030406&theme=onedark&rank=S,A,B)](https://github.com/ryo-ma/github-profile-trophy)
