@@ -9,7 +9,7 @@
 ![python](https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg)
 -->
 
-<img align="left" alt="Java" width="30px" display="block" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/python/python-original.svg" />
+[<img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/python/python-original.svg" />]
 
 [![Hemant's GitHub stats](https://github-readme-stats.vercel.app/api?username=hemant030406&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hemant030406&theme=transparent&border_radius=30)](https://git.io/streak-stats)
