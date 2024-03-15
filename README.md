@@ -9,7 +9,7 @@
 ![python](https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg)
 -->
 
-[![Hemant's GitHub stats](https://github-readme-stats.vercel.app/api?username=hemant030406)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=radical)
+[![Hemant's GitHub stats](https://github-readme-stats.vercel.app/api?username=hemant030406&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **hemant030406/hemant030406** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
