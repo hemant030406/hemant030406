@@ -22,15 +22,15 @@
 
 ## Stats
 
-<div style="display: flex; justify-content: center;">
-    [![Hemant's GitHub stats](https://github-readme-stats.vercel.app/api?username=hemant030406&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=hemant030406&show_icons=true&theme=radical" alt="Hemant's GitHub stats" />
+</p>
 
 <br>
 
-<div style="display: flex; justify-content: center;">
-    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hemant030406&theme=transparent&border_radius=30)](https://git.io/streak-stats)
-</div>
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=hemant030406&theme=transparent&border_radius=30" alt="GitHub Streak" />
+</p>
 
 <br>
 
