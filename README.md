@@ -16,7 +16,7 @@
 <img align="left" alt="cpp" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/c/c-original.svg" />
 <img align="left" alt="cpp" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/react/react-original-wordmark.svg" />
 <img align="left" alt="cpp" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/javascript/javascript-original.svg" />
-<img align="left" alt="cpp" width="30px" height="60px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/svelte/svelte-original-wordmark.svg" />
+<img align="left" alt="cpp" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/svelte/svelte-original-wordmark.svg" />
 
 <br>
 
