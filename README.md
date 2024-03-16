@@ -23,7 +23,7 @@
 ## Stats
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=hemant030406&show_icons=true&theme=radical" alt="Hemant's GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=hemant030406&show_icons=true&theme=radical&border_radius=30" alt="Hemant's GitHub stats" />
 </p>
 
 <br>
@@ -34,9 +34,10 @@
 
 <br>
 
-<div style="display: flex; justify-content: center;">
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5&theme=gruvbox&layout=pie)
-</div>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5&theme=gruvbox&layout=pie&border_radius=30" alt="Top Langs" />
+   ![Top Langs]()
+</p>
 
 <!--
 **hemant030406/hemant030406** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
