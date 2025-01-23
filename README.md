@@ -16,7 +16,7 @@
 <img align="left" alt="python" width="60px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/python/python-original.svg" />
 <img align="left" alt="Javascript" width="60px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/javascript/javascript-original.svg" />
 <img align="left" alt="React" width="60px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/react/react-original-wordmark.svg" />
-<img align="left" alt="Django" width="60px" src="https://www.svgrepo.com/svg/353657/django-icon" />
+<img align="left" alt="Django" width="60px" src="https://imgs.search.brave.com/b3LKtcDTGGdTCF1L8dzyJsnvvGlrTFHYztxNAYZHZ_g/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly93d3cu/c3ZncmVwby5jb20v/c2hvdy8zNTM2NTcv/ZGphbmdvLWljb24u/c3Zn" />
 <img align="left" alt="Svelte" width="60px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/svelte/svelte-original-wordmark.svg" />
 
 <br>
