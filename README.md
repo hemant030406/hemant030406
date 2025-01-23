@@ -16,7 +16,7 @@
 <img align="left" alt="python" width="60px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/python/python-original.svg" />
 <img align="left" alt="Javascript" width="60px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/javascript/javascript-original.svg" />
 <img align="left" alt="React" width="60px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/react/react-original-wordmark.svg" />
-<img align="left" alt="Django" width="60px" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/django/django-plain-wordmark.svg" />
+<img align="left" alt="Django" width="60px" src="https://www.svgrepo.com/svg/353657/django-icon" />
 <img align="left" alt="Svelte" width="60px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/svelte/svelte-original-wordmark.svg" />
 
 <br>
